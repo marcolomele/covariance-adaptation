@@ -1,14 +1,14 @@
 # Covariance Matrix Adaptation Study
 
-Covariance Matrix Adaptation is a state of the art evolutionary algorithm. In this repository, I explore two applications: portfolio optimization and model merging. This research is part of a broader investigation into evolutionary computation for optimization and model combination. Part of Bocconi University's Computational Modelling course, BSc level. 
+Covariance Matrix Adaptation (CMA) is a state of the art evolutionary algorithm. In this repository, I explore two applications: portfolio optimization and model merging. This research is part of a broader investigation into evolutionary computation for optimization and model combination. Part of Bocconi University's Computational Modelling course, BSc level. 
 
 ## 💰 Evolutionary Portfolio Optimisation
-This section is an applied experiment of the CMA strategy for financial portfolio optimization. It includes:
+This section is an applied experiment of the CMA strategy for financial Markowitz portfolio optimization. It includes:
 - A PDF report detailing the experiment and results
 - A Jupyter notebook (`.ipynb`) file with the code implementation
 
 ## 🧪 Evolutionary Model Merge
-This section covers both background information and a research paper. Content covered:
+This section covers both background information and a research paper that merges the parameters of Large Language Models (LLMs) using CMA, showing how combining fine-tuned models, e.g. math and japanese language, can overlap and combine capabilities, solve math problems formulated in Japanese. Content covered:
 
 1. **The Model Merging Problem**
 2. **Useful Background**
